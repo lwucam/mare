@@ -1,7 +1,7 @@
-# MaRe
+# MaRE
 
 
-Demo URL: http://rep2rep.cl.cam.ac.uk/MaRe/
+Demo URL: http://rep2rep.cl.cam.ac.uk/MaRE/
 
 Demo Video: http://rep2rep.cl.cam.ac.uk/demo/
 
