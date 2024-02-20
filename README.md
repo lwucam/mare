@@ -12,3 +12,7 @@ RST Editor UI: https://github.com/rep2rep/rep2rep-ui
 RST Editor Demo: http://rep2rep.cl.cam.ac.uk/
 
 Supplementary Document: https://github.com/lwucam/mare/blob/main/supplementary.pdf
+
+Project Website: https://sites.google.com/site/myrep2rep/home
+
+Publications: https://sites.google.com/site/myrep2rep/publications
